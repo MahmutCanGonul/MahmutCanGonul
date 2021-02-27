@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mahmut Can
 #### I am Software Engineering Student
-![I am Software Engineering Student]( )
+ 
 
 Creator of Covator and Quiz-App. I have my own company. Company name is InnovationZ. I like create a new mobile apps.
 
