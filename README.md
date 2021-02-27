@@ -1,18 +1,20 @@
-### {Hello World};👋
+### Hi there 👋, my name is Mahmut Can
+#### I am Software Engineering Student
+![I am Software Engineering Student]( )
 
-<!--
-**MahmutCanGonul/MahmutCanGonul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creator of Covator and Quiz-App. I have my own company. Company name is InnovationZ. I like create a new mobile apps.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS/C compiler/Python
 
-- 🔭 I’m currently working on My own company
-- 🌱 I’m currently learning Android Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Developer
-- 💬 Ask me about Android Application
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own company [InnovationZ] 
+- 🌱 I’m currently learning Unity,Python 
+- 🤔 I’m looking for help with New developer 
+- 💬 Ask me about Mobile app developing 
+- ⚡ Fun fact: I like coding 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmutCanGonul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mahmut-can-gönül-73921a1a2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gonulmahmutcan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mahmutcangonul1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg' alt='googleplay' height='40'>](https://play.google.com/store/apps/details?id=com.covator_InnovationZ666&hl=tr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlepay.svg' alt='googlepay' height='40'>](https://play.google.com/store/apps/details?id=com.QuizApp_mahmutcangonul99&hl=tr)  
+
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmutCanGonul)
