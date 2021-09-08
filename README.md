@@ -4,7 +4,7 @@
 
 Creator of Covator,Quiz-App,Bex/ExchangeApp and Alpha08. I have my own company. Company name is InnovationZ. I like create a new mobile apps.
 
-Skills: REACT / JS / HTML / CSS/C compiler/Python
+Skills: REACT / JS / HTML / CSS/C compiler/Python / .NET
 
 - 🔭 I’m currently working on Yuksektek Company
 - 🌱 I’m currently learning Unity,Python 
