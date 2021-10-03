@@ -2,7 +2,7 @@
 #### I am Software Engineering Student
  
 
-Creator of Covator,Quiz-App,Bex/ExchangeApp and Alpha08. I have my own company. Company name is InnovationZ. I like create a new mobile apps.
+Creator of Covator,Quiz-App,Bex/ExchangeApp,Yükle Kalsın and Alpha08. I have my own company. Company name is InnovationZ. I like create a new mobile apps.
 
 Skills: REACT / JS / HTML / CSS/C compiler/Python / .NET
 
