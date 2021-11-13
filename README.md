@@ -17,4 +17,9 @@ Skills: REACT / JS / HTML / CSS/C compiler/Python / .NET
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmutCanGonul)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmutCanGonul&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmutCanGonul&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
