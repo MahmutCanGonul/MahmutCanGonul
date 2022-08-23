@@ -1,14 +1,9 @@
 ### Hi there 👋, my name is Mahmut Can
-#### I am Software Engineering Student
+#### I am Software Engineer
  
 
-Creator of Covator,Quiz-App,Bex/ExchangeApp,Yükle Kalsın and Alpha08. I have my own company. Company name is InnovationZ. I like create a new mobile apps.
+Creator of Covator,Quiz-App,Bex/ExchangeApp,Yükle Kalsın and Alpha08. I like create a new mobile apps.
 
-Skills: REACT / JS / HTML / CSS/C compiler/Python / .NET
-
-- 🔭 I’m currently working on Yuksektek Company
-- 🌱 I’m currently learning Unity,Python 
-- 🤔 I’m looking for help with New developer 
 - 💬 Ask me about Mobile app developing 
 - ⚡ Fun fact: I like coding 
 
